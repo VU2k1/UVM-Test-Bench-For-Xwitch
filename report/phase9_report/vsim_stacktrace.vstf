@@ -1,0 +1,421 @@
+# Current time Fri Dec  9 23:25:52 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe800d87e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe800d39c: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe800d4e4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe8017c04: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7ea189c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7dec2b2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7dec5cc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7ffdd63: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe7a3fc98: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe7a3d4a7: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Fri Dec  9 23:27:29 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe800d87e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe800d39c: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe800d4e4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe8017c04: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7ea189c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7dec2b2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7dec5cc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7ffdd63: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe7a3fc98: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe7a3d4a7: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Fri Dec  9 23:32:48 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe800d87e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe800d39c: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe800d4e4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe8017c04: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7ea189c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7dec2b2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7dec5cc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7ffdd63: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe7a3fc98: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe7a3d4a7: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Fri Dec  9 23:34:51 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe800d87e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe800d39c: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe800d4e4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe8017c04: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7ea189c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7dec2b2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7dec5cc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7ffdd63: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe7a3fc98: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe7a3d4a7: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 00:42:33 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe803ed95: '../../verification/phase9_testcases/phase9_xsw_test_pkg.sv:80'
+# 1    0x00007fefe7a64f38: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 2    0x00007fefe7a62747: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 3    0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 4    0x00000000004f4fdb: '<unknown (@0x4f4fdb)>'
+# 5    0x0000000000691533: '<unknown (@0x691533)>'
+# 6    0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 7    0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 8    0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 9    0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 10   0x000000000161603d: '<unknown (@0x161603d)>'
+# 11   0x000000000161a496: '<unknown (@0x161a496)>'
+# 12   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 13   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 14   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 15   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 16   0x000000000170f957: '<unknown (@0x170f957)>'
+# 17   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 18   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 19   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 20   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 01:06:41 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe7f4d70e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe7f4d22c: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe7f4d374: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe7f58904: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7de0bbc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7d2b612: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7d2b92c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7f3dbf3: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe797f078: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe797c887: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 01:13:01 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe7f6d7de: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe7f6d2fc: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe7f6d444: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe7f789d4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7e00c9c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7d4b6d2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7d4b9ec: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7f5dcc3: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe799f138: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe799c947: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 01:13:46 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe7f6d7de: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:50'
+# 1    0x00007fefe7f6d2fc: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe7f6d444: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe7f789d4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7e00c9c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7d4b6d2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7d4b9ec: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7f5dcc3: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe799f138: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe799c947: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 01:15:37 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe7f6f21e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:86'
+# 1    0x00007fefe7f6d2fc: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe7f6d444: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe7f789d4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7e00c9c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7d4b6d2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7d4b9ec: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7f5dcc3: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe799f138: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe799c947: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 01:17:19 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe7f6d4ae: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:86'
+# 1    0x00007fefe7f6cfcc: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe7f6d114: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe7f784b4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7e0099c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7d4b3b2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7d4b6cc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7f5d993: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe799ee18: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe799c627: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+
+# Current time Sat Dec 10 01:18:49 2022
+# Program = vsim
+# Id = "2020.1_1"
+# Version = "2020.03"
+# Date = "Mar  4 2020"
+# Platform = "linux_x86_64"
+# Signature = 60deb3f7bea283b7f564c03ffc57ec3b
+# 0    0x00007fefe8006b8e: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:86'
+# 1    0x00007fefe8004c6c: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:37'
+# 2    0x00007fefe8004db4: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:34'
+# 3    0x00007fefe800db04: '../../verification/phase9_testcases/phase9_xsw_scoreboard.sv:5'
+# 4    0x00007fefe7e9867c: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh:213'
+# 5    0x00007fefe7de30c2: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:76'
+# 6    0x00007fefe7de33dc: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/tlm1/uvm_analysis_port.svh:70'
+# 7    0x00007fefe7ff5633: '../../verification/phase9_testcases/phase9_xsw_monitor.sv:58'
+# 8    0x00007fefe7a36ab8: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_common_phases.svh:269'
+# 9    0x00007fefe7a342c7: '/CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_task_phase.svh:152'
+# 10   0x00000000011ad73a: '<unknown (@0x11ad73a)>'
+# 11   0x00000000006534fc: '<unknown (@0x6534fc)>'
+# 12   0x00000000004f4734: '<unknown (@0x4f4734)>'
+# 13   0x0000000000691533: '<unknown (@0x691533)>'
+# 14   0x0000000000bc91b3: '<unknown (@0xbc91b3)>'
+# 15   0x0000000000bce11b: '<unknown (@0xbce11b)>'
+# 16   0x0000000000bcfe4e: '<unknown (@0xbcfe4e)>'
+# 17   0x0000000000e9a7fd: '<unknown (@0xe9a7fd)>'
+# 18   0x000000000161603d: '<unknown (@0x161603d)>'
+# 19   0x000000000161a496: '<unknown (@0x161a496)>'
+# 20   0x000000000161bb81: '<unknown (@0x161bb81)>'
+# 21   0x000000000161bee6: '<unknown (@0x161bee6)>'
+# 22   0x00000000010ec1d9: '<unknown (@0x10ec1d9)>'
+# 23   0x00000000016bbdef: '<unknown (@0x16bbdef)>'
+# 24   0x000000000170f957: '<unknown (@0x170f957)>'
+# 25   0x00000000016d2857: '<unknown (@0x16d2857)>'
+# 26   0x00000000016d2b39: '<unknown (@0x16d2b39)>'
+# 27   0x00000000014c9b6d: '<unknown (@0x14c9b6d)>'
+# 28   0x0000000000b994bc: '<unknown (@0xb994bc)>'
+# End of Stack Trace
+
+

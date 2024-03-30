@@ -1,0 +1,133 @@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 5: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 15: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 25: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 35: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 45: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 55: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 65: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 75: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 85: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 95: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 105: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 115: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 125: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 135: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 145: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 155: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 165: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 175: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 185: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 195: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 205: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 215: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 225: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 235: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 245: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 255: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 265: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 275: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 285: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 295: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 305: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 315: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 325: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 335: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 345: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 355: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 365: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 375: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 385: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 395: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 405: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 415: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 425: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 435: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 445: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 455: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 465: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 475: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 485: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 495: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 505: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 515: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 525: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 535: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 545: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 555: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 565: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 575: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 585: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 595: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 605: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 615: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 625: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 635: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 645: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 655: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 665: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 675: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 685: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 695: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 705: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 715: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 725: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 735: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 745: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 755: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 765: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 775: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 785: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 795: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 805: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 815: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 825: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 835: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 845: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 855: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 865: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 875: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 885: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 895: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 905: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 915: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 925: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 935: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 945: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 955: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 965: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 975: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 985: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 995: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1005: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1015: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1025: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1035: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1045: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1055: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1065: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1075: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1085: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1095: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1105: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1115: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1125: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1135: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1145: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1155: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1165: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO ../../verification/phase7_scoreboard/phase7_xsw_scoreboard.sv(117) @ 1175: uvm_test_top.xsw_env.xsw_scoreboard_h [PASS] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+UVM_INFO /CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_objection.svh(1270) @ 1175: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+UVM_INFO /CMC/tools/mentor/questasim_2020.1_1/questasim/verilog_src/uvm-1.2/src/base/uvm_report_server.svh(847) @ 1175: reporter [UVM/REPORT/SERVER] 
+--- UVM Report Summary ---
+
+** Report counts by severity
+UVM_INFO :  121
+UVM_WARNING :    0
+UVM_ERROR :    0
+UVM_FATAL :    0
+** Report counts by id
+[PASS]   118
+[RNTST]     1
+[TEST_DONE]     1
+[UVM/RELNOTES]     1
+

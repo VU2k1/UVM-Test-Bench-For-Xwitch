@@ -1,0 +1,14 @@
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:695}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:712}
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:695}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:712}
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:695}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:712}
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:733}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:750}
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:733}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:750}
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:733}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:750}
+  CREATE_STREAM @0 {NAME:seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:733}
+  CREATE_STREAM @0 {NAME:xsw_seq T:Transactions SCOPE:uvm_test_top.xsw_env.xsw_agent_upstream_h.xsw_sequencer_h STREAM:750}
